@@ -1,0 +1,8 @@
+ID,Name,Department,Salary,Age
+101,Alice,HR,50000,25
+102,Bob,IT,60000,28
+103,Charlie,IT,,30
+104,David,Finance,55000,29
+105,Eva,HR,52000,
+106,Frank,Finance,58000,31
+107,Grace,IT,65000,27
